@@ -2,7 +2,7 @@
 > 아래와 같이 MD 방식으로 개인 url을 추가해 주세요<br>
 **이름: github 주소**
 
-* **김미리** [https://github.com/kimmiri1234](https://github.com/kimmiri1234)
+<b>* **김미리** [https://github.com/kimmiri1234](https://github.com/kimmiri1234)
 * **최수민**[https://github.com/choi030/2308URL](https://github.com/choi030/2308URL)
 * **한재영** [https://github.com/Hanywyam](https://github.com/Hanywyam)
 * **정하솔** [https://github.com/sol227](https://github.com/sol227)
@@ -15,4 +15,4 @@
 * **장원준** [https://github.com/wkd6262](https://github.com/wkd6262)
 * **허수인** [https://github.com/suin1](https://github.com/suin1)
 * **김경석** [https://github.com/kimks1234](https://github.com/kimks1234)
-* **이현범** [https://github.com/Leehyunbum6792](https://github.com/Leehyunbum6792)
+* **이현범** [https://github.com/Leehyunbum6792](https://github.com/Leehyunbum6792)</b>
