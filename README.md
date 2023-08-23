@@ -3,4 +3,4 @@
 **이름: github 주소**
 
 * **김미리** [https://github.com/kimmiri1234](https://github.com/kimmiri1234)
-* **김민재** [https://github.com/minminjaejae/2308URL.git](https://github.com/minminjaejae/2308URL)
+* **김민재** [https://github.com/minminjaejae](https://github.com/minminjaejae)
