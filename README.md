@@ -4,6 +4,5 @@
 
 * **김미리** [https://github.com/kimmiri1234](https://github.com/kimmiri1234)
 
-* **조유빈**
-https://github.com/you-been
+* **조유빈** https://github.com/you-been
 
