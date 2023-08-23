@@ -3,6 +3,7 @@
 **이름: github 주소**
 
 * **김미리** [https://github.com/kimmiri1234](https://github.com/kimmiri1234)
+* **성영은** [https://github.com/youngeunoo](https://github.com/youngeunoo)
 * **이성수** [https://github.com/sslee1210](https://github.com/sslee1210)
 * **김신영** [https://github.com/ksyoung00](https://github.com/ksyoung00)
 * **조유빈** https://github.com/you-been
