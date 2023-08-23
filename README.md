@@ -3,6 +3,6 @@
 **이름: github 주소**
 
 * **김미리** [https://github.com/kimmiri1234](https://github.com/kimmiri1234)
+* **장원준** [https://github.com/wkd6262](https://github.com/wkd6262)
 * **허수인** [https://github.com/suin1](https://github.com/suin1)
 * **김경석** [https://github.com/kimks1234](https://github.com/kimks1234)
-
