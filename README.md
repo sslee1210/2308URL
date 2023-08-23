@@ -3,6 +3,7 @@
 **이름: github 주소**
 
 * **김미리** [https://github.com/kimmiri1234](https://github.com/kimmiri1234)
+**최수민**[https://github.com/choi030/2308URL](https://github.com/choi030/2308URL)
 * **한재영** [https://github.com/Hanywyam](https://github.com/Hanywyam)
 * **정하솔** [https://github.com/sol227](https://github.com/sol227)
 * **김민재** [https://github.com/minminjaejae](https://github.com/minminjaejae)
